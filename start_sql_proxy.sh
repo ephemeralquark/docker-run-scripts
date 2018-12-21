@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 source ~/.docker_run_scripts/environment.sh
 
 docker run -d --rm --name $(echo $CLOUD_SQL_INSTANCE_NAME | sed 's/:/./g')-socket \
