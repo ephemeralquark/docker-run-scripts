@@ -1,8 +1,8 @@
-#Docker Run Scripts
+# Docker Run Scripts
 
 Helpful shell scripts to run docker containers 
 
-##Instructions
+## Instructions
 Clone this repo to ~/.docker_run_scripts
 ```
 git clone {address-of-this-repo} ~/.docker_run_scripts
