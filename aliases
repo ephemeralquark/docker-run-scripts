@@ -1,0 +1,3 @@
+alias start-sql-proxy=~/.docker_run_scripts/start_sql_proxy.sh
+alias stop-sql-proxy=~/.docker_run_scripts/stop_sql_proxy.sh
+
