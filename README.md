@@ -5,7 +5,7 @@ Helpful shell scripts to run docker containers
 ## Instructions
 Clone this repo to ~/.docker_run_scripts
 ```
-git clone http://git.humana.io/clee13/docker-run-scripts.git ~/.docker_run_scripts
+git clone https://github.com/ephemeralquark/docker-run-scripts.git ~/.docker_run_scripts
 ```
 
 Edit the environment variables in environment.sh and you can run the shell scripts directly from the .docker_run_scripts directory, or you can add the handy aliases to your shell.
